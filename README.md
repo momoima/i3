@@ -1,2 +1,2 @@
 # i3
-i3 config file
+i3 dot config files
